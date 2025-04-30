@@ -1,0 +1,149 @@
+timestamp,app_name,window_title,duration_seconds,is_productive
+2025-04-30 15:14:06,python.exe,Productivity Tracker,5.01,None
+2025-04-30 15:14:16,code.exe,pomodoro.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,8.01,True
+2025-04-30 15:14:46,code.exe,pomodoro.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,28.02,True
+2025-04-30 15:14:54,python.exe,Productivity Tracker,8.01,None
+2025-04-30 15:14:56,explorer.exe,,2.01,None
+2025-04-30 15:15:44,spotify.exe,Spotify Free,48.05,False
+2025-04-30 15:16:16,python.exe,Productivity Tracker,32.03,None
+2025-04-30 15:16:17,spotify.exe,Spotify Free,1.0,False
+2025-04-30 15:16:26,python.exe,Productivity Tracker,9.01,None
+2025-04-30 15:16:41,code.exe,pomodoro.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,15.01,True
+2025-04-30 15:16:47,chrome.exe,Productivity Tracker Presentation - Google Chrome,6.01,True
+2025-04-30 15:16:48,explorer.exe,,1.0,None
+2025-04-30 15:16:50,explorer.exe,data - File Explorer,2.0,None
+2025-04-30 15:16:51,explorer.exe,Task Switching,1.0,None
+2025-04-30 15:17:39,chrome.exe,Productivity Tracker Presentation - Google Chrome,48.04,True
+2025-04-30 15:17:40,explorer.exe,,1.0,None
+2025-04-30 15:17:45,python.exe,Productivity Tracker,5.01,None
+2025-04-30 15:17:49,chrome.exe,Productivity Tracker Presentation - Google Chrome,4.0,True
+2025-04-30 15:17:50,explorer.exe,,1.0,None
+2025-04-30 15:17:53,python.exe,Productivity Tracker,3.0,None
+2025-04-30 15:19:14,chrome.exe,Productivity Tracker Presentation - Google Chrome,81.07,True
+2025-04-30 15:19:15,explorer.exe,,1.0,None
+2025-04-30 15:19:24,python.exe,Productivity Tracker,9.01,None
+2025-04-30 15:27:35,chrome.exe,Productivity Tracker Presentation - Google Chrome,491.41,True
+2025-04-30 15:27:57,chrome.exe,ChatGPT - Google Chrome,21.03,True
+2025-04-30 15:30:33,chrome.exe,Productivity Tracker Presentation - Google Chrome,156.15,True
+2025-04-30 15:30:35,explorer.exe,Task Switching,2.0,None
+2025-04-30 15:30:38,code.exe,pomodoro.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,3.01,True
+2025-04-30 15:30:51,explorer.exe,Task Switching,13.01,None
+2025-04-30 15:30:57,chrome.exe,Productivity Tracker Presentation - Google Chrome,6.01,True
+2025-04-30 15:31:01,explorer.exe,Task Switching,4.0,None
+2025-04-30 15:31:06,code.exe,pomodoro.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,5.01,True
+2025-04-30 15:31:07,explorer.exe,,1.0,None
+2025-04-30 15:31:09,explorer.exe,Task View,2.0,None
+2025-04-30 15:31:52,chrome.exe,Productivity Tracker Presentation - Google Chrome,43.04,True
+2025-04-30 15:31:55,explorer.exe,Task View,3.0,None
+2025-04-30 15:32:00,chrome.exe,Productivity Tracker Presentation - Google Chrome,5.0,True
+2025-04-30 15:32:02,searchhost.exe,Search,2.0,None
+2025-04-30 15:32:03,chrome.exe,Productivity Tracker Presentation - Google Chrome,1.0,True
+2025-04-30 15:32:04,explorer.exe,Task Switching,1.0,None
+2025-04-30 15:32:20,code.exe,pomodoro.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,16.04,True
+2025-04-30 15:32:22,code.exe,activity_tracker.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,2.0,True
+2025-04-30 15:32:23,explorer.exe,,1.0,None
+2025-04-30 15:32:29,chrome.exe,Productivity Tracker Presentation - Google Chrome,6.01,True
+2025-04-30 15:32:42,code.exe,activity_tracker.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,13.02,True
+2025-04-30 15:32:44,chrome.exe,Productivity Tracker Presentation - Google Chrome,2.0,True
+2025-04-30 15:33:01,code.exe,activity_tracker.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,17.01,True
+2025-04-30 15:34:40,chrome.exe,Productivity Tracker Presentation - Google Chrome,99.09,True
+2025-04-30 15:35:14,chrome.exe,(8) WhatsApp - Google Chrome,34.03,True
+2025-04-30 15:35:29,chrome.exe,(7) WhatsApp - Google Chrome,15.01,True
+2025-04-30 15:35:32,chrome.exe,(6) WhatsApp - Google Chrome,3.0,True
+2025-04-30 15:35:34,chrome.exe,Download GitHub directory - Google Chrome,2.0,True
+2025-04-30 15:49:10,chrome.exe,nocrastinator/nocrastinator-py-main/src at main · sharonn-7/nocrastinator - Google Chrome,815.55,True
+2025-04-30 15:49:15,lockapp.exe,Windows Default Lock Screen,5.01,None
+2025-04-30 15:49:37,chrome.exe,nocrastinator/nocrastinator-py-main/src at main · sharonn-7/nocrastinator - Google Chrome,22.02,True
+2025-04-30 15:58:37,chrome.exe,sharonn-7 - Google Chrome,540.44,True
+2025-04-30 15:58:42,chrome.exe,(6) WhatsApp - Google Chrome,5.0,True
+2025-04-30 15:58:43,chrome.exe,meet.google.com/ovu-cymp-kea - Google Chrome,1.0,True
+2025-04-30 15:58:45,chrome.exe,Meet - Google Chrome,2.01,True
+2025-04-30 16:02:42,chrome.exe,Meet – ovu-cymp-kea - Google Chrome,237.22,True
+2025-04-30 16:02:47,explorer.exe,Task Switching,5.01,None
+2025-04-30 16:03:13,chrome.exe,Meet – ovu-cymp-kea - Google Chrome,26.05,True
+2025-04-30 16:03:33,chrome.exe,(6) WhatsApp - Google Chrome,20.02,True
+2025-04-30 16:03:37,chrome.exe,,4.0,True
+2025-04-30 16:03:39,chrome.exe,Google Chrome,2.04,True
+2025-04-30 16:03:53,chrome.exe,,14.05,True
+2025-04-30 16:03:59,chrome.exe,New Tab - Google Chrome,6.01,True
+2025-04-30 16:04:13,chrome.exe,Meet - Google Chrome,14.01,True
+2025-04-30 16:05:01,chrome.exe,Meet - ovu-cymp-kea - Google Chrome,48.04,True
+2025-04-30 16:05:02,chrome.exe,meet.google.com is sharing a window.,1.01,True
+2025-04-30 16:09:26,chrome.exe,Meet - ovu-cymp-kea - Google Chrome,263.21,True
+2025-04-30 16:09:27,explorer.exe,,1.0,None
+2025-04-30 16:09:39,code.exe,activity_tracker.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,12.01,True
+2025-04-30 16:10:32,explorer.exe,,2.0,None
+2025-04-30 16:10:34,python.exe,Productivity Tracker,2.0,None
+2025-04-30 16:11:36,python.exe,Productivity Tracker,3.0,None
+2025-04-30 16:11:38,explorer.exe,,2.02,None
+2025-04-30 16:11:39,spotify.exe,Spotify,1.02,False
+2025-04-30 16:12:03,spotify.exe,Spotify Free,24.03,False
+2025-04-30 16:12:06,python.exe,Productivity Tracker,3.0,None
+2025-04-30 16:12:07,explorer.exe,,1.0,None
+2025-04-30 16:12:08,spotify.exe,Spotify Free,1.0,False
+2025-04-30 16:49:12,code.exe,app.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,1.0,True
+2025-04-30 16:49:43,python.exe,Productivity Tracker,31.03,None
+2025-04-30 16:51:22,code.exe,app.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,1.01,True
+2025-04-30 16:51:46,python.exe,Productivity Tracker,24.03,None
+2025-04-30 16:51:48,explorer.exe,,2.03,None
+2025-04-30 16:51:49,spotify.exe,Spotify,1.01,False
+2025-04-30 16:52:06,spotify.exe,Spotify Free,17.04,False
+2025-04-30 16:52:18,python.exe,Productivity Tracker,12.01,None
+2025-04-30 16:52:20,spotify.exe,Spotify Free,2.0,False
+2025-04-30 16:52:30,python.exe,Productivity Tracker,10.01,None
+2025-04-30 16:52:46,spotify.exe,Spotify Free,16.01,False
+2025-04-30 16:53:11,python.exe,Productivity Tracker,25.03,None
+2025-04-30 16:53:12,searchhost.exe,Search,1.01,None
+2025-04-30 16:53:15,python.exe,Productivity Tracker,3.0,None
+2025-04-30 16:53:17,explorer.exe,,2.05,None
+2025-04-30 16:53:19,python.exe,Productivity Tracker,2.01,None
+2025-04-30 16:53:26,explorer.exe,,7.01,None
+2025-04-30 16:53:44,explorer.exe,Downloads - File Explorer,18.02,None
+2025-04-30 16:53:54,python.exe,Productivity Tracker,10.01,None
+2025-04-30 16:53:58,powerpnt.exe,NOCRASTINATOR_Presentation  -  Protected View - PowerPoint,4.05,None
+2025-04-30 16:54:02,python.exe,Productivity Tracker,4.01,None
+2025-04-30 16:54:09,powerpnt.exe,NOCRASTINATOR_Presentation  -  Protected View - PowerPoint,7.01,None
+2025-04-30 16:56:23,python.exe,Productivity Tracker,134.16,None
+2025-04-30 16:56:24,explorer.exe,,1.0,None
+2025-04-30 16:56:26,spotify.exe,Spotify Free,2.01,False
+2025-04-30 16:56:29,chrome.exe,meet.google.com is sharing your screen.,3.01,True
+2025-04-30 16:57:43,lockapp.exe,Windows Default Lock Screen,73.85,None
+2025-04-30 16:57:56,explorer.exe,,13.02,None
+2025-04-30 16:57:58,chrome.exe,(7) WhatsApp - Google Chrome,2.01,True
+2025-04-30 16:58:02,chrome.exe,New Tab - Google Chrome,4.01,True
+2025-04-30 16:58:06,chrome.exe,git - Google Search - Google Chrome,4.01,True
+2025-04-30 16:58:09,chrome.exe,github - Google Search - Google Chrome,3.01,True
+2025-04-30 16:58:19,chrome.exe,GitHub - Google Chrome,10.01,True
+2025-04-30 16:58:22,chrome.exe,,3.0,True
+2025-04-30 16:58:24,chrome.exe,Google Meet: Online web and video conferencing calls | Google Workspace - Google Chrome,2.0,True
+2025-04-30 16:58:25,chrome.exe,New Tab - Google Chrome,1.0,True
+2025-04-30 16:58:28,chrome.exe,,3.0,True
+2025-04-30 16:58:32,chrome.exe,New Tab - Google Chrome,4.0,True
+2025-04-30 16:58:33,chrome.exe,Google Search - Google Chrome,1.0,True
+2025-04-30 16:58:34,chrome.exe,github login - Google Search - Google Chrome,1.0,True
+2025-04-30 16:58:58,chrome.exe,Sign in to GitHub · GitHub - Google Chrome,24.02,True
+2025-04-30 16:59:06,chrome.exe,GitHub - Google Chrome,8.01,True
+2025-04-30 16:59:20,chrome.exe,New repository - Google Chrome,14.01,True
+2025-04-30 16:59:23,chrome.exe,,3.0,True
+2025-04-30 16:59:25,chrome.exe,New Tab - Google Chrome,2.0,True
+2025-04-30 16:59:29,chrome.exe,chat - Google Search - Google Chrome,4.0,True
+2025-04-30 17:00:07,chrome.exe,ChatGPT - Google Chrome,38.03,True
+2025-04-30 17:00:20,chrome.exe,Productivity Tracker GitHub Description - Google Chrome,13.01,True
+2025-04-30 17:00:48,chrome.exe,New repository - Google Chrome,28.02,True
+2025-04-30 17:01:06,chrome.exe,"geethaputta58/productivity_tracker: A simple productivity tracker built with Python and Tkinter. It helps you manage tasks, set priorities, and track progress through an easy-to-use interface. - Google Chrome",17.02,True
+2025-04-30 17:01:08,chrome.exe,Upload files · geethaputta58/productivity_tracker - Google Chrome,2.01,True
+2025-04-30 17:01:35,chrome.exe,Open,27.03,True
+2025-04-30 17:01:50,code.exe,app.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,15.02,True
+2025-04-30 17:02:33,chrome.exe,Open,43.04,True
+2025-04-30 17:02:35,explorer.exe,,2.0,None
+2025-04-30 17:02:37,explorer.exe,data - File Explorer,2.0,None
+2025-04-30 17:02:47,explorer.exe,Downloads - File Explorer,10.01,None
+2025-04-30 17:02:49,explorer.exe,sharonn-7-nocrastinator-d0f4fd1 - File Explorer,2.0,None
+2025-04-30 17:02:51,explorer.exe,data - File Explorer,2.01,None
+2025-04-30 17:02:53,explorer.exe,sharonn-7-nocrastinator-d0f4fd1 - File Explorer,2.01,None
+2025-04-30 17:03:38,explorer.exe,Downloads - File Explorer,45.04,None
+2025-04-30 17:03:46,explorer.exe,Folder In Use,8.01,None
+2025-04-30 17:03:47,explorer.exe,Downloads - File Explorer,1.0,None
+2025-04-30 17:03:50,chrome.exe,Open,3.01,True
+2025-04-30 17:03:52,chrome.exe,Upload files · geethaputta58/productivity_tracker - Google Chrome,2.01,True
+2025-04-30 17:03:54,explorer.exe,,2.01,None

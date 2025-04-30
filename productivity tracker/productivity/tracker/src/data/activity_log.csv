@@ -1,0 +1,21 @@
+timestamp,app_name,window_title,duration_seconds,is_productive
+2025-04-30 13:52:29,code.exe,app.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,1.01,True
+2025-04-30 13:53:02,python.exe,Productivity Tracker,33.03,None
+2025-04-30 13:53:03,explorer.exe,,1.0,None
+2025-04-30 13:53:05,chrome.exe,File not found error - Google Chrome,2.0,True
+2025-04-30 13:53:07,chrome.exe,New Tab - Google Chrome,2.0,True
+2025-04-30 13:53:12,chrome.exe,YouTube - Google Chrome,5.01,False
+2025-04-30 13:53:15,chrome.exe,(26) YouTube - Google Chrome,3.0,False
+2025-04-30 14:08:39,python.exe,Productivity Tracker,923.88,None
+2025-04-30 14:08:42,lockapp.exe,Windows Default Lock Screen,3.0,None
+2025-04-30 14:08:59,python.exe,Productivity Tracker,17.02,None
+2025-04-30 14:09:01,chrome.exe,(26) YouTube - Google Chrome,2.0,False
+2025-04-30 14:10:32,code.exe,app.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,91.11,True
+2025-04-30 14:10:33,explorer.exe,,1.0,None
+2025-04-30 14:10:36,chrome.exe,(26) YouTube - Google Chrome,3.0,False
+2025-04-30 14:10:38,chrome.exe,New Tab - Google Chrome,2.0,True
+2025-04-30 14:10:40,chrome.exe,ChatGPT - Google Chrome,2.0,True
+2025-04-30 14:10:41,explorer.exe,Task Switching,1.0,None
+2025-04-30 14:10:44,code.exe,app.py - sharonn-7-nocrastinator-d0f4fd1 - Visual Studio Code,3.0,True
+2025-04-30 14:12:05,chrome.exe,ChatGPT - Google Chrome,81.08,True
+2025-04-30 14:12:06,explorer.exe,,1.0,None

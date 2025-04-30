@@ -1,0 +1,33 @@
+
+--- Log started at 2025-04-30 16:11:32.796965 ---
+Activity tracker initialized
+Focus score calculator initialized
+Pomodoro timer initialized
+Activity tracking started
+Application initialized
+Error logging activity: 'charmap' codec can't encode character '\u25cf' in position 29: character maps to <undefined>
+Using unproductive app: spotify.exe
+Started tracking unproductive time at 16:11:38
+Using unproductive app: spotify.exe
+Pomodoro timer started
+Using unproductive app: spotify.exe
+Forcing productivity alert
+Triggering unproductive time alert
+Unproductive time alert triggered after 0.5 minutes
+Pomodoro timer paused
+Pomodoro timer stopped
+Pomodoro timer started
+Pomodoro timer paused
+Pomodoro timer stopped
+Pomodoro timer started
+Pomodoro timer stopped
+Pomodoro timer started
+Pomodoro timer stopped
+Pomodoro timer started
+
+--- Log started at 2025-04-30 16:49:11.623694 ---
+Activity tracker initialized
+Focus score calculator initialized
+Pomodoro timer initialized
+Activity tracking started
+Application initialized
